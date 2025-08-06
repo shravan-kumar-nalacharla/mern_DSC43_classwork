@@ -1,0 +1,152 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.title {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+.title p {
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 23%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+hr#hr2 {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 43%;
+    left: 65.5%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+.pinfo {
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    top: 17%;
+    left: 50%;
+    align-items: center;
+    transform: translate(-50%, -50%);
+}
+
+.pinfo p {}
+
+.education {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+
+.education h2 {}
+
+.education h3 {
+    font-size: 15px;
+}
+
+.education p {
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+.Technical {
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+.Technical h2 {}
+
+.Technical h3 {
+    font-size: 15px;
+}
+
+.Technical p {
+    opacity: 0.5;
+    font-size: 13px;
+    margin-left: 150px;
+    margin-top: -10px;
+}
+
+.experiences {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+}
+
+hr#hr3 {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 63%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+
+.experiences p {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.experiences li {
+    opacity: 0.5;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.projects {
+    position: absolute;
+    top: 130%;
+    left: 5%;
+}
+
+hr#hr3 {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 63%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+hr#hr4 {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 133%;
+    left: 61%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+.projects h3 {
+    font-size: 15px;
+}
+
+.projects li {
+    opacity: 0.5;
+    font-size: 13px;
+    margin-left: 10px;
+}
